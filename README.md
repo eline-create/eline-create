@@ -4,7 +4,7 @@ Backend Developer, studying fullstack developer in Hiring Coders and loving to c
 
 - 🌱 I’m currently learning fullstack developer in Hiring Coders Bootcamp;
 - 👯 I’m collaborating on Dev Girls Community;
-- 🤔 I’m looking for help with VueJs;
+- 🤔 I’m looking for help with VueJs, ReactJs and TypeScript, because I'm learning now!;
 - 💬 Ask me about JS development, markdown, Git/GitHub, HTTP methods, RestAPI. If I couldn't answer, i can help to looking for a sollution ;)
 - 📫 How to reach me: send me a message in my linkedIn;
 - 😄 Pronouns: She/Her
