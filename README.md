@@ -1,11 +1,11 @@
 ### < Hello👋, I am Eline>
 
-Backend Developer, studying fullstack developer in Hiring Coders and loving to code.
+Backend Developer, studying fullstack development in Hiring Coders and loving to code.
 
-- 🌱 I’m currently learning fullstack developer in Hiring Coders Bootcamp;
+- 🌱 I’m currently learning fullstack development in Hiring Coders Bootcamp;
 - 👯 I’m collaborating on Dev Girls Community;
 - 🤔 I’m looking for help with VueJs, ReactJs and TypeScript, because I'm learning now!;
-- 💬 Ask me about JS development, markdown, Git/GitHub, HTTP methods, RestAPI. If I couldn't answer, i can help to looking for a sollution ;)
+- 💬 Ask me about JS development, markdown, Git/GitHub, HTTP methods, RestAPI. If I couldn't answer, I can help you looking for a sollution ;)
 - 📫 How to reach me: send me a message in my <a href="https://www.linkedin.com/in/eline-silva-de-paula-pimentel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>;
 - 😄 Pronouns: She/Her
 - ⚡ Curious fact: My first degree was in Geography bachelor.
