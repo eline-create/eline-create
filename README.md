@@ -1,6 +1,6 @@
 ### < Hello👋, I am Eline>
 
-Backend Developer, studying fullstack development in Hiring Coders and loving to code.
+Backend Developer, studying fullstack development and loving to code.
 
 - 🌱 I’m currently learning fullstack development in Hiring Coders Bootcamp;
 - 👯 I’m collaborating on Dev Girls Community;
