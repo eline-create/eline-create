@@ -2,7 +2,7 @@
 
 Backend Developer, studying fullstack development and loving to code.
 
-- 🌱 I’m currently learning React.JS and Node.JS in Ignite from RocketSeat;
+- 🌱 I’m currently learning about Salesforce. In love for Salesforce, Functional, Developer... I'm a Evangelist;
 - 👯 I’m collaborating on Dev Girls Community;
 - 🤔 I’m looking for help with VueJs, ReactJs and TypeScript, because I'm learning now!;
 - 💬 Ask me about JS development, markdown, Git/GitHub, HTTP methods, RestAPI. If I couldn't answer, I can help you looking for a sollution ;)
